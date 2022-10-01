@@ -3,6 +3,19 @@ from airflow.operators.bash import BashOperator
 
 from datetime import datetime
 
+fuckers dont mess with me
+ 
+ 
+ asshole ass hoele .hole
+
+
+
+
+
+
+
+
+
 with DAG(
     "parallel_dag",
     start_date=datetime(2022, 1, 1),
